@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\bgb.netcore.mes.Application\bgb.netcore.mes.Application.csproj" />
+    <ProjectReference Include="..\bgb.netcore.mes.Domain\bgb.netcore.mes.Domain.csproj" />
+    <ProjectReference Include="..\bgb.netcore.mes.EntityFrameworkCore\bgb.netcore.mes.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\bgb.netcore.mes.Utility\bgb.netcore.mes.Utility.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.deps.json
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\obj\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\obj\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\obj\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\obj\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.AssemblyInfo.cs
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\obj\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.csproj.CopyComplete
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\obj\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\obj\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.runtimeconfig.json
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.EntityFrameworkCore\bin\Debug\netcoreapp2.2\bgb.netcore.mes.EntityFrameworkCore.runtimeconfig.dev.json

@@ -1,0 +1,12 @@
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Application.csprojAssemblyReference.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Application.csproj.CoreCompileInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Application.AssemblyInfoInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Application.AssemblyInfo.cs
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Application.deps.json
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Application.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Application.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Application.csproj.CopyComplete
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Application.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Application\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Application.pdb

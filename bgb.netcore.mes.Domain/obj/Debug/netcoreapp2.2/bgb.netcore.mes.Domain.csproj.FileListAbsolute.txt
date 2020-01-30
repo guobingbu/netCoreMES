@@ -1,0 +1,9 @@
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.deps.json
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.csproj.CoreCompileInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.AssemblyInfoInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.AssemblyInfo.cs
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Domain\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Domain.csprojAssemblyReference.cache

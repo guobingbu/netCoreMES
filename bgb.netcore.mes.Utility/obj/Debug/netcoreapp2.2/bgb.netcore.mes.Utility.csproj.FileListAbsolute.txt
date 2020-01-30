@@ -1,0 +1,9 @@
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.deps.json
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\bin\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.csproj.CoreCompileInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.AssemblyInfoInputs.cache
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.AssemblyInfo.cs
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.dll
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.pdb
+D:\web\sourcerCode\bgb.netcore.mes\bgb.netcore.mes.Utility\obj\Debug\netcoreapp2.2\bgb.netcore.mes.Utility.csprojAssemblyReference.cache
